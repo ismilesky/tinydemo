@@ -8,7 +8,7 @@ import sys
 # -*- coding: utf-8 -*-
 
 # APIKEY
-tinify.key = "FGMDMXdQ6dtNo0NFN1dPUGQ-1SSFpVZH"
+tinify.key = "XXXXXXXX"
 
 folderinput=sys.argv[1]
 if folderinput =='':
